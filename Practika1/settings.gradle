@@ -1,0 +1,4 @@
+rootProject.name = "Practika1"
+include ':app'
+include ':layouttype'
+include ':clickbuttons'
