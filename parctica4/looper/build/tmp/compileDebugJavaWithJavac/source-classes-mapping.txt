@@ -1,0 +1,7 @@
+ru/mirea/fedorov_a/looper/MyLooper.java
+ ru.mirea.fedorov_a.looper.MyLooper
+ ru.mirea.fedorov_a.looper.MyLooper$1
+ru/mirea/fedorov_a/looper/MainActivity.java
+ ru.mirea.fedorov_a.looper.MainActivity
+ru/mirea/fedorov_a/looper/BuildConfig.java
+ ru.mirea.fedorov_a.looper.BuildConfig

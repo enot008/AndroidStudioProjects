@@ -1,0 +1,8 @@
+ru/mirea/fedorov_a/data_thread/BuildConfig.java
+ ru.mirea.fedorov_a.data_thread.BuildConfig
+ru/mirea/fedorov_a/data_thread/MainActivity.java
+ ru.mirea.fedorov_a.data_thread.MainActivity
+ ru.mirea.fedorov_a.data_thread.MainActivity$1
+ ru.mirea.fedorov_a.data_thread.MainActivity$2
+ ru.mirea.fedorov_a.data_thread.MainActivity$3
+ ru.mirea.fedorov_a.data_thread.MainActivity$4

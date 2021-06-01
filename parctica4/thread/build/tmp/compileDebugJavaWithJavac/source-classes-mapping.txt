@@ -1,0 +1,7 @@
+ru/mirea/fedorov_a/rumireafedorov_apractice4/BuildConfig.java
+ ru.mirea.fedorov_a.rumireafedorov_apractice4.BuildConfig
+ru/mirea/fedorov_a/rumireafedorov_apractice4/MainActivity.java
+ ru.mirea.fedorov_a.rumireafedorov_apractice4.MainActivity
+ ru.mirea.fedorov_a.rumireafedorov_apractice4.MainActivity$1
+ ru.mirea.fedorov_a.rumireafedorov_apractice4.MainActivity$2
+ ru.mirea.fedorov_a.rumireafedorov_apractice4.MainActivity$2$1

@@ -1,0 +1,6 @@
+ru/mirea/fedorov_a/loadermanger/MyLoader.java
+ ru.mirea.fedorov_a.loadermanger.MyLoader
+ru/mirea/fedorov_a/loadermanger/BuildConfig.java
+ ru.mirea.fedorov_a.loadermanger.BuildConfig
+ru/mirea/fedorov_a/loadermanger/MainActivity.java
+ ru.mirea.fedorov_a.loadermanger.MainActivity
