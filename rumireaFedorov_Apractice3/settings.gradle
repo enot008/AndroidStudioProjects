@@ -1,0 +1,6 @@
+rootProject.name = "ru.mirea.Fedorov_A.practice3"
+include ':Intent'
+include ':share'
+include ':resultactivity'
+include ':systemintentsapp'
+include ':simplefragmentapp'
