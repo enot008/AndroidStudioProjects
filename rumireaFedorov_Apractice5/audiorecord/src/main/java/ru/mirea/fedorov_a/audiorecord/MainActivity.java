@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity {
                     REQUEST_CODE_PERMISSION);
         }
     }
-
     public static boolean hasPermissions(Context context, String... permissions) {
         if (context != null && permissions != null) {
             for (String permission : permissions) {
@@ -65,7 +64,6 @@ public class MainActivity extends AppCompatActivity {
         }
         return true;
     }
-
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
@@ -74,7 +72,6 @@ public class MainActivity extends AppCompatActivity {
                     && grantResults[0] == PackageManager.PERMISSION_GRANTED;
         }
     }
-
     public void onRecordStart(View view) {
         try {
             startRecordButton.setEnabled(false);
