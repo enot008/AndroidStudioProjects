@@ -1,4 +1,0 @@
-#Sun May 30 17:20:41 MSK 2021
-base.0=C\:\\Users\\enot\\AndroidStudioProjects\\rumireaFedorov_Apractice42\\workmanager\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
