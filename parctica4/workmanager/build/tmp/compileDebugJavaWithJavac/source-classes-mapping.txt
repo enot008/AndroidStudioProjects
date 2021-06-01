@@ -1,6 +1,0 @@
-ru/mirea/fedorov_a/workmanager/MainActivity.java
- ru.mirea.fedorov_a.workmanager.MainActivity
-ru/mirea/fedorov_a/workmanager/UploadWorker.java
- ru.mirea.fedorov_a.workmanager.UploadWorker
-ru/mirea/fedorov_a/workmanager/BuildConfig.java
- ru.mirea.fedorov_a.workmanager.BuildConfig
