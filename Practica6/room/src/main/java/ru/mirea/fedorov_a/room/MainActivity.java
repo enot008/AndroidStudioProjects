@@ -30,4 +30,5 @@ public class MainActivity extends AppCompatActivity {
         employeeDao.update(employee);
         Log.d(TAG, employee.name + " " + employee.salary);
     }
+
 }
